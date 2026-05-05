@@ -1,15 +1,14 @@
-# Topicos-Especiais-I
-
 # AD1  - Avaliação a Distancia 1
 
-Análise de Textos - SRI
+# Análise de Textos - SRI
 
 Projeto desenvolvido para a disciplina Tópicos Especiais I
 
-Descrição
-O conjunto de dados utilizado foi obtido por meio da plataforma kaggle. 
+# Descrição
 
-Etapas
+O conjunto de dados utilizado, texto em português sobre Segurança Cibernéticas.
+
+# Etapas
 
 Limpeza e segmentação dos textos
 
@@ -19,7 +18,7 @@ NER (reconhecimento de entidades nomeadas)
 
 Análise de dados com gráficos e tabelas
 
-Tecnologias
+# Tecnologias
 
 Python
 
@@ -29,7 +28,7 @@ spaCy
 
 Google Colab
 
-Estrutura
+# Estrutura
 
 data/: arquivos CSV gerados
 notebooks: processamento e análise
