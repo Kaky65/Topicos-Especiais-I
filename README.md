@@ -30,5 +30,5 @@ Google Colab
 
 # Estrutura
 
-data/: arquivos CSV gerados|
+data/: arquivos CSV gerados\
 notebooks: processamento e análise
